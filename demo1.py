@@ -75,5 +75,3 @@ plt.imshow(rect)
 plt.axis('off')
 plt.title("Bounding Boxes")
 plt.show()
-
-# print(len(videos.iloc[VIDEO_NUM].loc['labelled_frames'][0]))
