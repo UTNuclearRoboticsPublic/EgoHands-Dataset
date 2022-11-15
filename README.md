@@ -90,7 +90,7 @@ where python
 ```
 
 ### Downloading the EgoHands Labelled Frames from Indiana University
-Go to [this link](http://vision.soic.indiana.edu/projects/egohands/) and download the "Labelled Data" Zip Archive (which should be around 1.3GB). Unzip this file and drag the \_LABELLEDSAMPLES\_ folder into the same folder where the files of this project are located.
+Go to [this link](http://vision.soic.indiana.edu/projects/egohands/) and download the "Labelled Data" Zip Archive (which should be around 1.3GB). Unzip this file and drag the \_LABELLEDSAMPLES\_ folder into the same directory level as the rest of the code.
 
 Now, you should be good to go!
 
